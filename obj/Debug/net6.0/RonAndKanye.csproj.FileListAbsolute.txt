@@ -1,0 +1,17 @@
+C:\Users\drobe\OneDrive\Desktop\repos2\RonAndKanye\bin\Debug\net6.0\RonAndKanye.exe
+C:\Users\drobe\OneDrive\Desktop\repos2\RonAndKanye\bin\Debug\net6.0\RonAndKanye.deps.json
+C:\Users\drobe\OneDrive\Desktop\repos2\RonAndKanye\bin\Debug\net6.0\RonAndKanye.runtimeconfig.json
+C:\Users\drobe\OneDrive\Desktop\repos2\RonAndKanye\bin\Debug\net6.0\RonAndKanye.dll
+C:\Users\drobe\OneDrive\Desktop\repos2\RonAndKanye\bin\Debug\net6.0\RonAndKanye.pdb
+C:\Users\drobe\OneDrive\Desktop\repos2\RonAndKanye\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\drobe\OneDrive\Desktop\repos2\RonAndKanye\obj\Debug\net6.0\RonAndKanye.csproj.AssemblyReference.cache
+C:\Users\drobe\OneDrive\Desktop\repos2\RonAndKanye\obj\Debug\net6.0\RonAndKanye.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\drobe\OneDrive\Desktop\repos2\RonAndKanye\obj\Debug\net6.0\RonAndKanye.AssemblyInfoInputs.cache
+C:\Users\drobe\OneDrive\Desktop\repos2\RonAndKanye\obj\Debug\net6.0\RonAndKanye.AssemblyInfo.cs
+C:\Users\drobe\OneDrive\Desktop\repos2\RonAndKanye\obj\Debug\net6.0\RonAndKanye.csproj.CoreCompileInputs.cache
+C:\Users\drobe\OneDrive\Desktop\repos2\RonAndKanye\obj\Debug\net6.0\RonAndKanye.csproj.CopyComplete
+C:\Users\drobe\OneDrive\Desktop\repos2\RonAndKanye\obj\Debug\net6.0\RonAndKanye.dll
+C:\Users\drobe\OneDrive\Desktop\repos2\RonAndKanye\obj\Debug\net6.0\refint\RonAndKanye.dll
+C:\Users\drobe\OneDrive\Desktop\repos2\RonAndKanye\obj\Debug\net6.0\RonAndKanye.pdb
+C:\Users\drobe\OneDrive\Desktop\repos2\RonAndKanye\obj\Debug\net6.0\RonAndKanye.genruntimeconfig.cache
+C:\Users\drobe\OneDrive\Desktop\repos2\RonAndKanye\obj\Debug\net6.0\ref\RonAndKanye.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "va3qmH1bIJLUsB4HETk9tROFarlOiWc+XupiG3WFjSbKvkfdOzOSlWWEK+nhJfmHhsATB2u2E3jjZW4aZ3E/ig==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\drobe\\OneDrive\\Desktop\\repos2\\RonAndKanye\\RonAndKanye.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\drobe\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
